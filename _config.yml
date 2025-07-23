@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: IDEA Group@CDI # the website title (if blank, full name will be used instead)
+title: Weiwe Guo # the website title (if blank, full name will be used instead)
 first_name: Weiwei
 middle_name: 
 last_name: Guo
-contact_note: >
+contact_note: weiweiguo@tongji.edu.cn>
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
