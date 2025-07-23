@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>IDEA Gropu@CDI,D&I,Tongji Universtiy</p>
-    <p>Tongji-MIT City Sceience Lab@Shanghai</p>
-    <p>Intelligent Sensing and Recognition Key Lab@ Shanghai Jitong University</p>
+    <p, style="font-size: 14px;">IDEA Group@CDI,D&I,Tongji Unv.</p>
+    <p,style="font-size: 14px;">Tongji-MIT City Sceience Lab@Shanghai</p>
+    <p,style="font-size: 14px;">Intelligent Sensing and Recognition Key Lab@ Shanghai Jiaotong Unv.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
