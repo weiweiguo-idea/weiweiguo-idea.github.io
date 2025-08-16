@@ -1423,3 +1423,17 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* 自定义 highlight 风格 */
+.highlight {
+  background-color:  var(--global-bg-color);
+  color:  var(--global-theme-color);
+  font-family: "Fira Code", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  .highlight {
+    background-color: var(--global-bg-color);
+    color: var(--global-theme-color);
+  }
+}
