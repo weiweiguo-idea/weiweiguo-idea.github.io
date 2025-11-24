@@ -49,7 +49,3 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 </ul>
 
 `课题组寻找电子信息、计算机、人工智能、机械以及设计等相关背景，具有较强自驱力的硕士、博士研究生以及实习生，目标是在多模态感知与推理、人机/机器人交互、遥感影像解译等领域上做出有影响力的工作。欢迎感兴趣的同学随时通过电子邮件与我联系。`
-
-
-
-
